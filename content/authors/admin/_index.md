@@ -15,13 +15,16 @@ organizations:
     url: https://www.ucl.ac.uk/biosciences/christodoulou-group
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests protein co-translational folding, molecular dynamics simulations, integrative structural biology, structural bioinformatics, protein design, machine learning
 
 # Interests to show in About widget
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - protein co-translational folding
+  - molecular dynamics simulations
+  - integrative structural biology
+  - structural bioinformatics
+  - protein design
+  - machine learning
 
 # Education to show in About widget
 education:
