@@ -44,7 +44,7 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: tomek.wlodarski@gmail.com
+    link: "mailto:tomek.wlodarski@gmail.com"
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/ttwlodarski
