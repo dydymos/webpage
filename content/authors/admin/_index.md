@@ -72,8 +72,6 @@ email: ''
 highlight_name: true
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Tomek Włodarski is a computational biophysicist working as a research fellow in John Christodoulou group at UCL. His background is in multi-scale simulations of proteins and large protein-RNA complexes. Through my research, I have not only advanced my simulations portfolio but have crucially developed a very strong understanding of the details of NMR and cryo-EM data to extract structural, dynamic and mechanistic information and applied these to my strategies, enabling me to make predictions and to design experiments. I have built experience in computational chemistry, bioinformatics, integrative structural biology and protein folding, which put me in a unique position to work on the cross-section of chemistry, physics and biology.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/CV_en2022.docx.pdf" "newtab" >}}resumé{{< /staticref >}}.
