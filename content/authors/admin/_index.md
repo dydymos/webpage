@@ -72,6 +72,7 @@ email: ''
 highlight_name: true
 ---
 
-Tomek Włodarski is a computational biophysicist working as a research fellow in John Christodoulou group at UCL. His background is in multi-scale simulations of proteins and large protein-RNA complexes. Through my research, I have not only advanced my simulations portfolio but have crucially developed a very strong understanding of the details of NMR and cryo-EM data to extract structural, dynamic and mechanistic information and applied these to my strategies, enabling me to make predictions and to design experiments. I have built experience in computational chemistry, bioinformatics, integrative structural biology and protein folding, which put me in a unique position to work on the cross-section of chemistry, physics and biology.
+ I am a computational biophysicist working as a research fellow in John Christodoulou group at UCL, where I study co translational protein folding using mainly multi-scale molecular dynamics simulations. Through my research, I have developed all-atom and coarse-grained molecular dynamics simulations of ribosomal nascent chain complexes with structural restraints based on experimental data (mainly NMR and cryo-EM). Moreover, for cryo-EM maps I have developed method based on Bayesian inference to re-weight structural ensemble obtained from simulations so it better captures heterogenity present in cryo-EM data.
+
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/CV_en2022.docx.pdf" "newtab" >}}resumé{{< /staticref >}}.
