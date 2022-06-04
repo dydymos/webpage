@@ -16,15 +16,15 @@ feature:
   - icon: code
     icon_pack: fas
     name: Programming
-    description: Python, Bash, AWK, Tcl, R, git, LaTeX
+    description: **Python**, **Bash**, **AWK**, Tcl, R, git, LaTeX
   - icon: laptop-code
     icon_pack: fas
     name: MD simulations codes
-    description: GROMACS, PLUMED
+    description: **GROMACS**, **PLUMED**
   - icon: language
     icon_pack: fas
     name: Languages
-    description: Polish(native), English(fluent), Russian(basic), German(basic)
+    description: **Polish**(native), **English**(fluent), Russian(basic), German(basic)
 
   # Example using an emoji as an icon.
 #  - icon: '😄'
