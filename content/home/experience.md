@@ -22,23 +22,14 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title:
-    company: University College London
-    company_url: ''
-    company_logo: org-gc
-    location: London, UK
-    date_start: '2013-06'
-    date_end: ''
-    description:
-
   - title: Summer studentship
     company: Theoretical and Computational Biophysics Group at University of Illinois in Urbana-Champaign
     company_url: ''
     company_logo: org-gc
     location: Urbana-Champaign, Illinois
     date_start: '2007-07'
-    date_end: ''
-    description: Project: “Computational study of solvation and hydrophobic effect around a simple molecular compound” (advisor: Prof. Klaus Schulten)
+    date_end:
+    description:
 
 
 design:
