@@ -17,10 +17,10 @@ feature:
     icon_pack: fas
     name: Programming
     description: Python, Bash, AWK, Tcl, R, git, LaTeX
-  - icon: chart-line
+  - icon: laptop-code
     icon_pack: fas
-    name: Statistics
-    description: 100%
+    name: MD simulations codes
+    description: GROMACS, PLUMED
   - icon: language
     icon_pack: fas
     name: Languages
