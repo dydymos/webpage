@@ -31,6 +31,18 @@ item:
     organization_url: https://www.coursera.org
     title: Neural Networks and Deep Learning
     url: ''
+  - title: 'EMBO Long Term Fellowship'
+    date_end: '2013-06-01'
+    date_start: '2015-06-01'
+    organization: EMBO
+    company_logo: embo
+    url: ''    
+  - title: 'EMBO Short Term Fellowship'
+    date_end: '2011-11-01'
+    date_start: '2012-02-01'
+    organization: EMBO
+    company_logo: embo
+    url: ''    
   - title: 'Foundation for Polish Science Scholarship - START'
     date_end: '2011-01-01'
     date_start: '2012-01-01'
