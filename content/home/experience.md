@@ -27,8 +27,8 @@ experience:
     company_url: ''
     company_logo: medils
     location: Split, Croatia
-    date_start: '2009-08'
-    date_end: '2009-08'
+    date_start: '2009-08-01'
+    date_end: '2009-08-01'
     description: Conformational selection vs induced fit in protein-protein binding (Bojan Zagrovic)
   - title: FEBS summer scholarship
     company: Computational Biophysics of Macromolecules Group at Mediterranean Institute for Life Sciences
