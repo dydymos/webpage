@@ -28,7 +28,7 @@ experience:
     company_logo: illinois
     location: Urbana-Champaign, Illinois
     date_start: '2007-07-01'
-    date_end: ''
+    date_end: '2007-08-01'
     description: Project
 
 
