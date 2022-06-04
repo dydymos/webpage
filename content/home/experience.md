@@ -23,6 +23,14 @@ date_format: Jan 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
   - title: Visiting student
+    company: Chemistry Department, University of Cambridge
+    company_url: ''
+    company_logo: cam
+    location: Cambridge, UK
+    date_start: '2011-11-01'
+    date_end: '2012-02-01'
+    description: EMBO Short Term Fellowship with Prof. Michele Vendruscolo
+  - title: Visiting student
     company: Computational Biophysics of Macromolecules Group at Max F. Perutz Laboratories
     company_url: ''
     company_logo: vienna
