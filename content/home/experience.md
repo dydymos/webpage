@@ -23,13 +23,21 @@ date_format: Jan 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
   - title: Research Associate
+    company: Institute of Structural and Molecular Biology, University College London
+    company_url: ''
+    company_logo: ucl
+    location: London, UK
+    date_start: '2013-06-01'
+    date_end: ''
+    description: Studying co-translational protein folding and missfolding (Prof. John Christodoulou group)
+  - title: Research Associate
     company: Chemistry Department, University of Cambridge
     company_url: ''
     company_logo: cam
     location: Cambridge, UK
     date_start: '2016-10-01'
     date_end: '2019-04-01'
-    description: Developing computational methods to study protein co-translational folding in Prof. Michele Vendruscolo group
+    description: Developing computational methods to study co-translational protein folding (Prof. Michele Vendruscolo group)
   - title: Visiting student
     company: Chemistry Department, University of Cambridge
     company_url: ''
