@@ -4,13 +4,14 @@
 widget: experience
 
 # This file represents a page section.
-headless: false
+headless: true
 
 # Order that this section appears on the page.
 weight: 40
 
 title: Research Experience
 subtitle:
+featured: false
 
 # Date format for experience
 #   Refer to https://wowchemy.com/docs/customization/#date-format
