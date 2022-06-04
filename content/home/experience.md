@@ -29,7 +29,7 @@ experience:
     location: Cambridge, UK
     date_start: '2016-10-01'
     date_end: '2019-04-01'
-    description: Studying protein co-translational folding in Prof. Michele Vendruscolo group
+    description: Developing computational methods to study protein co-translational folding in Prof. Michele Vendruscolo group
   - title: Visiting student
     company: Chemistry Department, University of Cambridge
     company_url: ''
