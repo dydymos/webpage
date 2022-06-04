@@ -25,7 +25,7 @@ experience:
   - title: Summer studentship
     company: Theoretical and Computational Biophysics Group at University of Illinois in Urbana-Champaign
     company_url: ''
-    company_logo: org-gc
+    company_logo: illinois
     location: Urbana-Champaign, Illinois
     date_start: '2007-07-01'
     date_end:
