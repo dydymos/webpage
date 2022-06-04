@@ -16,7 +16,7 @@ feature:
   - icon: code
     icon_pack: fas
     name: Programming
-    description: Python, Bash, AWK, R, git, LaTeX
+    description: Python, Bash, AWK, Tcl, R, git, LaTeX
   - icon: chart-line
     icon_pack: fas
     name: Statistics
