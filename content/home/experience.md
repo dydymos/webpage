@@ -22,6 +22,14 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
+  - title: Visiting student
+    company: Bioinformatics and System Biology Group at University of Texas Medical Branch at Galveston
+    company_url: ''
+    company_logo: galveston
+    location: Galveston, Texas
+    date_start: '2010-02-01'
+    date_end: '2010-02-01'
+    description: Analysis of sequencing data of human fragile sites (Prof. Maga Rowicka)
   - title: Summer studentship
     company: Computational Biophysics of Macromolecules Group at Mediterranean Institute for Life Sciences
     company_url: ''
@@ -29,7 +37,7 @@ experience:
     location: Split, Croatia
     date_start: '2009-08-01'
     date_end: '2009-08-01'
-    description: Conformational selection vs induced fit in protein-protein binding (Bojan Zagrovic)
+    description: Conformational selection vs induced fit in protein-protein binding (Dr Bojan Zagrovic)
   - title: FEBS summer scholarship
     company: Computational Biophysics of Macromolecules Group at Mediterranean Institute for Life Sciences
     company_url: ''
@@ -37,7 +45,7 @@ experience:
     location: Split, Croatia
     date_start: '2008-07-01'
     date_end: '2008-08-01'
-    description: Conformational selection vs induced fit in protein-protein binding (Bojan Zagrovic)
+    description: Conformational selection vs induced fit in protein-protein binding (Dr Bojan Zagrovic)
   - title: Summer studentship
     company: Theoretical and Computational Biophysics Group at University of Illinois in Urbana-Champaign
     company_url: ''
