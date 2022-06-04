@@ -22,6 +22,14 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
+  - title: Research Associate
+    company: Chemistry Department, University of Cambridge
+    company_url: ''
+    company_logo: cam
+    location: Cambridge, UK
+    date_start: '2016-10-01'
+    date_end: '2019-04-01'
+    description: Studying protein co-translational folding in Prof. Michele Vendruscolo group
   - title: Visiting student
     company: Chemistry Department, University of Cambridge
     company_url: ''

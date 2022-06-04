@@ -20,7 +20,7 @@ feature:
   - icon: laptop-code
     icon_pack: fas
     name: MD simulations codes
-    description: GROMACS, PLUMED
+    description: GROMACS, NAMD, PLUMED
   - icon: language
     icon_pack: fas
     name: Languages
