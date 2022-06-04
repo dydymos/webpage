@@ -32,7 +32,14 @@ experience:
     description: Project: “Computational study of solvation and hydrophobic effect around a simple molecular compound” (advisor: Prof. Klaus Schulten)
 
 
-
+  - title: Professor of Semiconductor Physics
+    company: University X
+    company_url: ''
+    company_logo: org-x
+    location: California
+    date_start: '2016-01-01'
+    date_end: '2020-12-31'
+    description: Taught electronic engineering and researched semiconductor physics.
 
 design:
   columns: '2'
