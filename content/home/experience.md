@@ -29,7 +29,7 @@ experience:
     location: Urbana-Champaign, Illinois
     date_start: '2007-07-01'
     date_end: ''
-    description: Project: “Computational study of solvation and hydrophobic effect around a simple molecular compound”
+    description: Project
 
 
 design:
