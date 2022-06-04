@@ -17,11 +17,7 @@ publication_types: ['1']
 publication: Proceedings of the National Academy of Sciences of the United States of America
 publication_short: In *PNAS*
 
-abstract: Noncovalent binding interactions between proteins are the central physicochemical phenomenon underlying biological signaling and functional control on the molecular level. Here, we perform a
-n extensive structural analysis of a large set of bound and unbound ubiquitin conformers and study the level of residual induced fit after conformational selection in the binding process. We show that th
-e region surrounding the binding site in ubiquitin undergoes conformational changes that are significantly more pronounced compared with the whole molecule on average. We demonstrate that these induced-f
-it structural adjustments are comparable in magnitude to conformational selection. Our final model of ubiquitin binding blends conformational selection with the subsequent induced fit and provides a quan
-titative measure of their respective contributions.
+abstract: Noncovalent binding interactions between proteins are the central physicochemical phenomenon underlying biological signaling and functional control on the molecular level. Here, we perform an extensive structural analysis of a large set of bound and unbound ubiquitin conformers and study the level of residual induced fit after conformational selection in the binding process. We show that the region surrounding the binding site in ubiquitin undergoes conformational changes that are significantly more pronounced compared with the whole molecule on average. We demonstrate that these induced-fit structural adjustments are comparable in magnitude to conformational selection. Our final model of ubiquitin binding blends conformational selection with the subsequent induced fit and provides a quantitative measure of their respective contributions.
 
 
 tags: []
