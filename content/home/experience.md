@@ -22,6 +22,14 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
+  - title: FEBS summer scholarship
+    company: Computational Biophysics of Macromolecules Group at Mediterranean Institute for Life Sciences
+    company_url: ''
+    company_logo: medils
+    location: Split, Croatia
+    date_start: '2008-07-01'
+    date_end: '2008-08-01'
+    description: Conformational selection vs induced fit in protein-protein binding (Bojan Zagrovic)
   - title: Summer studentship
     company: Theoretical and Computational Biophysics Group at University of Illinois in Urbana-Champaign
     company_url: ''
@@ -30,14 +38,7 @@ experience:
     date_start: '2007-07-01'
     date_end: '2007-08-01'
     description: Computational study of solvation and hydrophobic effect around a simple molecular compound (Prof. Klaus Schulten)
-  - title: FEBS summer scholarship
-    company: Computational Biophysics of Macromolecules Group at Mediterranean Institute for Life Sciences
-    company_url: ''
-    company_logo: illinois
-    location: Split, Croatia
-    date_start: '2008-07-01'
-    date_end: '2008-08-01'
-    description: Conformational selection vs induced fit in protein-protein binding (Bojan Zagrovic)
+
 
 
 design:
