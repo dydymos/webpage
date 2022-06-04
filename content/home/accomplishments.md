@@ -43,6 +43,7 @@ item:
     date_end: '2008-07-01'
     date_start: '2008-08-01'
     organization: FEBS
+    company_logo: febs
     url: ''
 
 design:
