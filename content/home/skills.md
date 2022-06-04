@@ -15,15 +15,16 @@ weight: 30
 feature:
   - icon: code
     icon_pack: fas
-    name: Python, Bash, AWK, R, git, LaTeX
+    name: Programming
+    description: Python, Bash, AWK, R, git, LaTeX
   - icon: chart-line
     icon_pack: fas
     name: Statistics
     description: 100%
-  - icon: camera-retro
+  - icon: language
     icon_pack: fas
-    name: P
-    description: 10%
+    name: Languages
+    description: Polish(native), English(fluent), Russian(basic), German(basic)
 
   # Example using an emoji as an icon.
 #  - icon: '😄'
