@@ -13,17 +13,16 @@ weight: 30
 # Add/remove as many `feature` blocks below as you like.
 # For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
-  - icon: r-project
-    icon_pack: fab
-    name: R
-    description: 90%
+  - icon: code
+    icon_pack: fas
+    name: Python, Bash, AWK, R, git, LaTeX
   - icon: chart-line
     icon_pack: fas
     name: Statistics
     description: 100%
   - icon: camera-retro
     icon_pack: fas
-    name: Photography
+    name: P
     description: 10%
 
   # Example using an emoji as an icon.
