@@ -72,7 +72,7 @@ email: ''
 highlight_name: true
 ---
 
- I am a computational biophysicist working as a research fellow in John Christodoulou group at UCL, where I study co translational protein folding using mainly multi-scale molecular dynamics simulations. Through my research, I have developed all-atom and coarse-grained molecular dynamics simulations of ribosomal nascent chain complexes with structural restraints based on experimental data (mainly NMR and cryo-EM). Moreover, for cryo-EM maps I have developed method based on Bayesian inference to re-weight structural ensemble obtained from simulations so it better captures heterogenity present in cryo-EM data.
+ I am a computational biophysicist working as a research fellow in John Christodoulou group at UCL, where I study co translational protein folding using mainly multi-scale molecular dynamics simulations. Through my research, I have developed all-atom and coarse-grained molecular dynamics simulations of ribosomal nascent chain complexes with structural restraints based on experimental data (mainly from NMR and cryo-EM). For cryo-EM maps I have developed method based on Bayesian inference to re-weight structural ensemble obtained from simulations so it better captures heterogenity present in cryo-EM data. Using these methods I have characterised interactions between the nascent chain and the ribosome for unfolded and folded nascent chains as well as folding intermediate state on the ribosome.
 
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/CV_en2022.docx.pdf" "newtab" >}}resumé{{< /staticref >}}.
