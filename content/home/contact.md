@@ -3,6 +3,9 @@
 widget: contact
 headless: true  # This file represents a page section.
 
+# Activate this widget? true/false
+active: false
+
 # ... Put Your Section Options Here (title etc.) ...
 title: Contact Me
 subtitle: ''
