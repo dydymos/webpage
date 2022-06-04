@@ -23,6 +23,14 @@ date_format: Jan 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
   - title: Visiting student
+    company: Computational Biophysics of Macromolecules Group at Max F. Perutz Laboratories
+    company_url: ''
+    company_logo: vienna
+    location: Vienna, Austria
+    date_start: '2011-07-01'
+    date_end: '2011-07-01'
+    description: Scientific project with Dr Bojan Zagrovic
+  - title: Visiting student
     company: Bioinformatics and System Biology Group at University of Texas Medical Branch at Galveston
     company_url: ''
     company_logo: galveston
