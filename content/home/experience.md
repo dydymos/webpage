@@ -29,7 +29,15 @@ experience:
     location: Urbana-Champaign, Illinois
     date_start: '2007-07-01'
     date_end: '2007-08-01'
-    description: Computational study of solvation and hydrophobic effect around a simple molecular compound (Klaus Schulten)
+    description: Computational study of solvation and hydrophobic effect around a simple molecular compound (Prof. Klaus Schulten)
+  - title: FEBS summer scholarship
+    company: Computational Biophysics of Macromolecules Group at Mediterranean Institute for Life Sciences
+    company_url: ''
+    company_logo: illinois
+    location: Split, Croatia
+    date_start: '2008-07-01'
+    date_end: '2008-08-01'
+    description: Conformational selection vs induced fit in protein-protein binding (Bojan Zagrovic)
 
 
 design:
