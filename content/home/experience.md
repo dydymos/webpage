@@ -27,8 +27,8 @@ experience:
     company_url: ''
     company_logo: org-gc
     location: Urbana-Champaign, Illinois
-    date_start: '2007-07'
-    date_end: '2008-08'
+    date_start: '2007-07-01'
+    date_end: '2008-08-01'
     description: Project: “Computational study of solvation and hydrophobic effect around a simple molecular compound” (advisor: Prof. Klaus Schulten)
 
 
