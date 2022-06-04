@@ -4,6 +4,9 @@
 widget: featurette
 headless: true  # This file represents a page section.
 
+# Order that this section appears on the page.
+weight: 30
+
 # ... Put Your Section Options Here (title etc.) ...
 
 # Showcase personal skills or business features.
@@ -24,10 +27,10 @@ feature:
     description: 10%
 
   # Example using an emoji as an icon.
-  - icon: '😄'
-    icon_pack: emoji
-    name: Emojiness
-    description: 100%
+#  - icon: '😄'
+#    icon_pack: emoji
+#    name: Emojiness
+#    description: 100%
 
 
 # Uncomment to use custom SVG icons.
