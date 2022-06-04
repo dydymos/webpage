@@ -22,6 +22,14 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
+  - title: Summer studentship
+    company: Computational Biophysics of Macromolecules Group at Mediterranean Institute for Life Sciences
+    company_url: ''
+    company_logo: medils
+    location: Split, Croatia
+    date_start: '2009-08'
+    date_end: '2009-08'
+    description: Conformational selection vs induced fit in protein-protein binding (Bojan Zagrovic)
   - title: FEBS summer scholarship
     company: Computational Biophysics of Macromolecules Group at Mediterranean Institute for Life Sciences
     company_url: ''
