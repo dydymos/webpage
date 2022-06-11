@@ -7,7 +7,7 @@ widget: pages
 headless: true
 
 # Activate this widget? true/false
-active: true
+active: false
 
 
 # Order that this section appears on the page.
@@ -20,7 +20,7 @@ content:
   # Filter on criteria
   filters:
     folders:
-      - publication
+      - publications
     tag: ''
     category: ''
     publication_type: ''
