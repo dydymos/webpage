@@ -13,9 +13,6 @@ weight: 50
 title: 'Fellowships'
 subtitle:
 
-# Activate this widget? true/false
-active: false
-
 # Date format
 #   Refer to https://wowchemy.com/docs/customization/#date-format
 date_format: Jan 2006

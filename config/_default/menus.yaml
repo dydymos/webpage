@@ -7,8 +7,8 @@ main:
   - name: Scientific Experience
     url: 'experience'
     weight: 30
-  - name: Fellowships/Courses
-    url: '#fellowships'
+  - name: Fellowships/Grants
+    url: 'fellowships'
     weight: 40
   - name: Publications
     url: '#featured'
