@@ -8,7 +8,7 @@ main:
     url: '#about'
     weight: 10
   - name: Scientific Experience
-    url: '#experience'
+    url: '#content/experience'
     weight: 30
   - name: Fellowships/Courses
     url: '#fellowships'
