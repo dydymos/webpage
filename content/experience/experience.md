@@ -25,7 +25,7 @@ experience:
   - title: Research Associate
     company: Institute of Biochemistry and Biophysics Polish Academy of Sciences
     company_url: ''
-    company_logo: ucl
+    company_logo: ibb
     location: Warsaw, Poland
     date_start: '2023-09-01'
     date_end: ''
