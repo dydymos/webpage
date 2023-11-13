@@ -24,8 +24,8 @@ date_format: Jan 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
   - title: 'POLONEZ BIS'
-    date_end: '2023-09-01'
-    date_start: '2025-08-31'
+    date_end: '2025-08-31'
+    date_start: '2023-09-01'
     organization: NCN
     company_logo: ncn
     url: ''    
