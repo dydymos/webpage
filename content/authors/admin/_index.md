@@ -10,9 +10,9 @@ role: Research Fellow
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Department of Structural and Molecular Biology
-  - name: University College London
-    url: https://www.ucl.ac.uk/biosciences/christodoulou-group
+  - name: Department of Bioinformatics
+  - name: Institute of Biochemistry and Biophysics Polish Academy of Sciences
+    url: https://ibb.edu.pl/en/
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests protein co-translational folding, molecular dynamics simulations, integrative structural biology, structural bioinformatics, protein design, machine learning
