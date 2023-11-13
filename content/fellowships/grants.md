@@ -27,7 +27,7 @@ item:
     date_end: '2023-09-01'
     date_start: '2025-08-31'
     organization: NCN
-    company_logo: embo
+    company_logo: ncn
     url: ''    
 
 design:
