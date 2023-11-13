@@ -40,4 +40,4 @@ In our project, we will combine molecular dynamics simulations with bioinformati
 
 Overall, our study will provide insights into one of the most fundamental biological processes impacting every aspect of cell function.
 
-![NCN logo](/imgages/NCN.png)
+![NCN logo](images/NCN.png)
