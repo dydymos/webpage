@@ -23,12 +23,20 @@ date_format: Jan 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
   - title: Research Associate
+    company: Institute of Biochemistry and Biophysics Polish Academy of Sciences
+    company_url: ''
+    company_logo: ibb
+    location: Warsaw, Poland
+    date_start: '2023-09-01'
+    date_end: ''
+    description: Co-translational protein folding in the light of ribosome evolution (Prof. Piotr Zielenkiewicz group)
+  - title: Research Associate
     company: Institute of Structural and Molecular Biology, University College London
     company_url: ''
     company_logo: ucl
     location: London, UK
     date_start: '2013-06-01'
-    date_end: ''
+    date_end: '2023-08-31'
     description: Studying co-translational protein folding and missfolding (Prof. John Christodoulou group)
   - title: Research Associate
     company: Chemistry Department, University of Cambridge
