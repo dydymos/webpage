@@ -14,9 +14,9 @@ image:
 #  caption: Photo by rawpixel on Unsplash
   focal_point: Smart
 
-banner:
-  image: 'NCN.png'
-
+image:
+  filename: 'NCN.png'
+  focal_point: Bottom
 #links:
 #  - icon: twitter
 #    icon_pack: fab
@@ -42,5 +42,3 @@ In the cell, proteins are synthesised during translation in machines called ribo
 In our project, we will combine molecular dynamics simulations with bioinformatics to extend our understanding of co-translational protein folding, especially in the light of ribosome evolution. We will simulate coTF on various available ribosome structures and analyse how different ribosomes can affect it. Moreover, as ribosome structures have been obtained for only a small fraction of organisms (~40), we will conduct genome-wide bioinformatics analysis to uncover and characterise all proteins that build ribosome exit tunnel in different organisms. Equipped with this extensive data, we will build structural models of some of the most diverse ribosome exit tunnels, which have not yet been studied experimentally. Subsequently, with molecular dynamics simulations, we will study how they impact co-translational protein folding. Finally, we will extend our bioinformatics analysis and uncover all ribosome-associated chaperones in bacteria, a special class of proteins that bind to the ribosome and help proteins to adopt their native shape. By characterising them, we will gain a crucial understanding of the cooperation between the ribosome and chaperones in co-translational protein folding.
 
 Overall, our study will provide insights into one of the most fundamental biological processes impacting every aspect of cell function.
-
-![NCN logo](images/NCN.png)
