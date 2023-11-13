@@ -14,6 +14,9 @@ image:
 #  caption: Photo by rawpixel on Unsplash
   focal_point: Smart
 
+banner:
+  image: 'NCN.png'
+
 #links:
 #  - icon: twitter
 #    icon_pack: fab
