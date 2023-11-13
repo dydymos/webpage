@@ -76,4 +76,4 @@ I am a computational biophysicist working as a research fellow in the Department
 During my postdoctorate stay at UCL in John Christodoulou's group and at the University of Cambridge in Michele Vendruscolo's group, I have worked on all-atom and coarse-grained molecular dynamics simulations of ribosomal nascent chain complexes with structural restraints derived from experimental data (mainly NMR and cryo-EM). Additionally, I have developed <i>CryoENsemble</i> - a computational method based on Bayesian inference to re-weight structural ensemble obtained from MD simulations to better capture heterogeneity in cryo-EM data. Using these tools, I have characterised in atomic detail the nascent chain structural ensembles, folding intermediate states and interactions between the ribosome and unfolded or folded nascent chains.
 </div>
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/CV_en2022.docx.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/Tomek_Wlodarski_CV_en2023.pdf" "newtab" >}}resumé{{< /staticref >}}.
