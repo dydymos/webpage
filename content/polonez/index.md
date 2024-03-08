@@ -1,6 +1,6 @@
 ---
-title: Co-translational protein folding in the light of ribosome evolution
-summary: An example of using the in-built project page [EVOCOTF].
+title: Co-translational protein folding in the light of ribosome evolution [EVOCOTF]
+summary: An example of using the in-built project page.
 tags:
   - Bioinformatics
   - Molecular dynamics simulations
