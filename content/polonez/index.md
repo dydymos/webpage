@@ -44,5 +44,5 @@ Overall, our study will provide insights into one of the most fundamental biolog
 </div>
 
 <div>
-<img src="NCN.png" alt="NCN logo">
+<img src="/home/didymos/git/webpage/images/NCN.png" alt="NCN logo">
 </div>
