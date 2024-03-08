@@ -40,7 +40,7 @@ In our project, we will combine molecular dynamics simulations with bioinformati
 
 Overall, our study will provide insights into one of the most fundamental biological processes impacting every aspect of cell function.
 
-This research is part of the project No. 2022/47/P/NZ1/03127 within the POLONEZ BIS programme co-funded by the National Science Centre and the European Union’s Horizon 2020 research and innovation programme under the Marie Skłodowska-Curie grant agreement No. 945339
+<em>This research is part of the project No. 2022/47/P/NZ1/03127 within the POLONEZ BIS programme co-funded by the National Science Centre and the European Union’s Horizon 2020 research and innovation programme under the Marie Skłodowska-Curie grant agreement No. 945339</em>
 </div>
 
 ![NCN logo](NCN.png)
