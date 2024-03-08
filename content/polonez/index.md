@@ -46,6 +46,3 @@ Overall, our study will provide insights into one of the most fundamental biolog
 <div>
 <img src="NCN.png" alt="NCN logo">
 </div>
-![NCN logo](NCN.png)
-![Polonez bis logo](Polonez.png)
-![EU](EU.png)
