@@ -44,4 +44,4 @@ Overall, our study will provide insights into one of the most fundamental biolog
 </div>
 
 {{< figure src="/images/NCN.png">}}
-{{< figure src="/images/Polonez.png">}}
+{{< figure src="/images/Polonez.png" width="300px">}}
