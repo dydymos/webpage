@@ -44,13 +44,12 @@ Overall, our study will provide insights into one of the most fundamental biolog
 </div>
 
 {{< figure src="/images/NCN.png">}}
-{{< figure src="/images/Polonez_white.png" width="300px">}}
 
 <div style="display: flex; justify-content: space-between; align-items: center;">
     <div style="flex: 1; text-align: left;">
         {{< figure src="/images/Polonez_white.png" width="300px" >}}
     </div>
     <div style="flex: 1; text-align: right;">
-        {{< figure src="/images/Polonez_white.png" width="300px" >}}
+        {{< figure src="/images/EU.png" width="300px" >}}
     </div>
 </div>
