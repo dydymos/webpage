@@ -44,4 +44,4 @@ Overall, our study will provide insights into one of the most fundamental biolog
 </div>
 
 ![NCN logo](NCN.png)
-![Polonez bis logo](Polonez.png)
+![Polonez bis logo](Polonez.jpg)
