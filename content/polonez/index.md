@@ -43,5 +43,5 @@ Overall, our study will provide insights into one of the most fundamental biolog
 <em><span style="font-size: 16px;">This research is part of the project No. 2022/47/P/NZ1/03127 within the POLONEZ BIS programme co-funded by the National Science Centre and the European Union’s Horizon 2020 research and innovation programme under the Marie Skłodowska-Curie grant agreement No. 945339</span></em>
 </div>
 
-{{< figure src="/img/NCN.png" title="NCN logo" >}}
-{{< figure src="/images/NCN.png" title="NCN logo" >}}
+{{< figure src="/images/NCN.png">}}
+{{< figure src="/images/Polonez.png">}}
