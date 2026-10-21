@@ -37,7 +37,7 @@ experience:
     location: London, UK
     date_start: '2013-06-01'
     date_end: '2023-08-31'
-    description: Studying co-translational protein folding and missfolding (Prof. John Christodoulou group)
+    description: Studying co-translational protein folding and misfolding (Prof. John Christodoulou group)
   - title: Research Associate
     company: Chemistry Department, University of Cambridge
     company_url: ''

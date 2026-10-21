@@ -1,6 +1,6 @@
 ---
 title: Co-translational protein folding in the light of ribosome evolution [EVOCOTF]
-summary: An example of using the in-built project page.
+summary: Co-translational protein folding in the light of ribosome evolution (POLONEZ BIS, NCN)
 tags:
   - Bioinformatics
   - Molecular dynamics simulations

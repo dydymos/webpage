@@ -15,7 +15,7 @@ organizations:
     url: https://ibb.edu.pl/en/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests protein co-translational folding, molecular dynamics simulations, integrative structural biology, structural bioinformatics, protein design, machine learning
+bio: My research interests include protein co-translational folding, molecular dynamics simulations, integrative structural biology, structural bioinformatics, protein design, machine learning
 
 # Interests to show in About widget
 interests:
